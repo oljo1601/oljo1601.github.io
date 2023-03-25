@@ -2,3 +2,17 @@ body {
   background: rgb(47, 255, 210);
   font-family: 'Courier New', Courier, monospace;
 }
+
+nav {
+  margin: 1em 0;
+}
+
+main {
+  margin: 1em 0;
+}
+
+.video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  max-width: 40rem;
+}
